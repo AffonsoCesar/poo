@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Esta classe implementa os metodos da InterfaceSistemaDeControle, e um método
+ * Esta classe implementa os métodos da InterfaceSistemaDeControle, e um método
  * adicional.
  * 
  * @author Affonso
