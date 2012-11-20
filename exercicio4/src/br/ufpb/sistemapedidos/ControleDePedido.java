@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Esta classe implementa os metodos da InterfaceSistemaDeControle, e um m�todo
+ * Esta classe implementa os metodos da InterfaceSistemaDeControle, e um método
  * adicional.
  * 
  * @author Affonso
@@ -17,7 +17,7 @@ public class ControleDePedido implements InterfaceSistemaDeControle {
 	List<Pedido>pedidos;
 	
 	/**
-	 * Construtor onde est� sendo inicializada a lista de pedidos.
+	 * Construtor onde está sendo inicializada a lista de pedidos.
 	 * 
 	 */
 	
@@ -38,7 +38,7 @@ public class ControleDePedido implements InterfaceSistemaDeControle {
 	}
 	
 	/**
-	 * Pesquisa Pedido incluindo os produtos quando � passado o codigo do
+	 * Pesquisa Pedido incluindo os produtos quando é passado o codigo do
 	 * produto.
 	 * 
 	 * @param codProduto Codigo do Produto.
@@ -76,7 +76,7 @@ public class ControleDePedido implements InterfaceSistemaDeControle {
 	            }
 	            else{
 	        
-	        System.out.println("O Pedido " + numPedido + " n�o foi encontrado!");
+	        System.out.println("O Pedido " + numPedido + " não foi encontrado!");
 	    }
 	     }
 		
